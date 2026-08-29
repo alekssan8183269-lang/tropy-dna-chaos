@@ -32,6 +32,47 @@
    pip install pyinstaller
    pyinstaller --onefile --windowed src/real_dna_tropy.py
    ```
+# Release v1.0.0: Ultimate Synthesis of DNA Biophysics & Multi-Scale Genomics
+
+This major update introduces a comprehensive thermodynamic, electrostatic, and multi-scale biochemical engine to the 3D Markov DNA processing pipeline. The system now seamlessly scales processing from core 3D spatial geometry down to 10,000 discrete nucleotide micro-zones, analyzing 10,000,000 real human genomic base pairs (Chr1: 50M-60M) in real-time.
+
+## 🔬 New Biophysical & Environmental Features
+
+### 1. Debye-Hückel Electrostatic Screening (Yukawa Potential)
+* Replaced the static vacuum electrostatic model with a physically rigorous **Yukawa potential** simulation.
+* Implemented a biological Debye length ($\lambda_D \approx 1.0$ nm) mimicking the realistic ionic concentration (NaCl/KCl salt solution) inside the host cell nucleus.
+* Solutes and charges exponentially decay over spatial coordinates, neutralizing loop repulsions or tightly bound nodes in the 3D world.
+
+### 2. Elastic Strain Energy (Bernoulli-Euler Beam Theory)
+* Added real-time tracking of **Elastic Strain Energy** quantified in thermodynamic thermal units ($k_B T$).
+* Calculated using the physical bending rigidity constant of double-stranded DNA ($B \approx 200 \text{ pN}\cdot\text{nm}^2$) relative to the Kirchhoff-Ilyukhin non-linear axial curvature.
+
+### 3. Hydropathic Node Index (Hydrophobic Volumetric Pressure)
+* Integrated a dynamic **Hydrophobic Matrix** analyzing water displacement during tight spatial packing.
+* The pressure index updates based on local linear packing density correlated against the tropical distance matrix ($\lambda$).
+
+---
+
+## 🧬 Multi-Scale Genomic Processing (Rolling Windows)
+The computational engine now scans nucleotide subsequences using continuous rolling windows across four distinct biological scales:
+* **3-mer Scale (Point Rigidity):** Inherent local curvature utilizing the consensus Brukner tri-nucleotide bendability matrix.
+* **5-mer Scale (Half-Turn Mechanics):** Scanning of 5-letter stacking energy windows to locate micro-hinges.
+* **10-mer Scale (Macro-Periodicity):** Quantitative pitch correlation searching for 10-10.5 bp helical repeats, directly predicting nucleosome-binding affinity (histone core wrapping).
+* **20-mer Scale (Regulatory CRISPR Profile):** Thermal and density validation of 20 bp target sequences for transcription factors and Cas9-guided systems.
+
+---
+
+## 🖥️ System Architecture & UI Optimization
+* **Automated Self-Check Engine:** Embedded a 5-stage automated quality control block validation routine verifying data outputs against biological limits (Homo Sapiens mass distribution, GC skewed limits, mathematical boundary bounds).
+* **Graphics Scale Enhancement:** decoupled internal physics arrays from presentation vectors by applying a $20.0\times$ 3D viewport spatial extension factor.
+* **Aspect Optimization:** Reduced sphere node meshes and linear wire cylinder scales down to `0.015`, completely mitigating voxel clutter and rendering smooth macromolecular spatial chains with zero drop in FPS.
+
+---
+
+## 📊 Output Artifacts & Verification
+* Comprehensive Macro Report (`dna_comprehensive_report_*.csv`) updated with multi-scale columns.
+* Gigantic Detailed Micro Report (`dna_BIG_detailed_report_*.csv`) generating 10,000 rows of synchronized biochemical/biophysical parameters with Excel absolute formatting lock (`="val"` injection protection).
+* Double-axis automated scientific deformation plots mapped to precise epoch timestamps.
 
 ## 📬 Автор
 * **Александр Моисеенко** (`alekssan8183269-lang`) — Независимый исследователь / Independent Research.
