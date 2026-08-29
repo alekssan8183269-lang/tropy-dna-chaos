@@ -14,10 +14,10 @@
 ## 📝 Форматы цитирования (Citation Formats)
 
 ### 1. СТИЛЬ APA (Для обычных списков литературы в Word / ГОСТ)
-> Alekssan. (2026). 13-LCM-Markov-Crossbar: Ultimate Synthesis of DNA Biophysics & Multi-Scale Genomics (Version v1.1.0). Zenodo. https://doi.org
+> Moiseenko Aleksandr. (2026). TroPy DNA Chaos: 3D Genome Reconstruction & Nonlinear Dynamics Framework (Version v1.0.0). Zenodo. https://doi.org
 
 ### 2. СТИЛЬ Harvard
-> Alekssan, 2026. *13-LCM-Markov-Crossbar: Ultimate Synthesis of DNA Biophysics & Multi-Scale Genomics*, version v1.1.0. Zenodo. Available at: https://doi.org.
+> Moiseenko Aleksandr, 2026. *TroPy DNA Chaos: 3D Genome Reconstruction & Nonlinear Dynamics Framework*, version v1.0.0. Zenodo. Available at: https://doi.org.
 
 ---
 
@@ -27,8 +27,8 @@
 
 ```bibtex
 @software{alekssan_2026_22158565,
-  author       = {Alekssan},
-  title        = {13-LCM-Markov-Crossbar: Ultimate Synthesis of DNA Biophysics \& Multi-Scale Genomics},
+  author       = {Moiseenko Aleksandr},
+  title        = {TroPy DNA Chaos: 3D Genome Reconstruction & Nonlinear Dynamics Framework},
   month        = aug,
   year         = 2026,
   publisher    = {Zenodo},
