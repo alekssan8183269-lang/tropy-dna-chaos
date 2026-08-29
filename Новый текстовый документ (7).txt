@@ -1,0 +1,246 @@
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+←[93mwarning: missing model: 'cylinder' ←[0m
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 187, in _update
+    __main__.update()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 363, in update
+    window.screenshot(name=shot_path, compute_shadows=False)
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'Window' object has no attribute 'screenshot'
+:task(error): Exception occurred in PythonTask update
+Traceback (most recent call last):
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 397, in <module>
+    app.run()
+    ~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 369, in run
+    super().run()
+    ~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\ShowBase.py", line 3331, in run
+    self.taskMgr.run()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 553, in run
+    self.step()
+    ~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 504, in step
+    self.mgr.poll()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 187, in _update
+    __main__.update()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 363, in update
+    window.screenshot(name=shot_path, compute_shadows=False)
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'Window' object has no attribute 'screenshot'
+
+
+
+C:\наука\TroPy DNA Chaos>python real_dna_tropy(222).py
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 187, in _update
+    __main__.update()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 366, in update
+    screenshot(name=shot_path, compute_shadows=False)
+    ^^^^^^^^^^
+NameError: name 'screenshot' is not defined
+:task(error): Exception occurred in PythonTask update
+Traceback (most recent call last):
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 401, in <module>
+    app.run()
+    ~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 369, in run
+    super().run()
+    ~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\ShowBase.py", line 3331, in run
+    self.taskMgr.run()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 553, in run
+    self.step()
+    ~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 504, in step
+    self.mgr.poll()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 187, in _update
+    __main__.update()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 366, in update
+    screenshot(name=shot_path, compute_shadows=False)
+    ^^^^^^^^^^
+NameError: name 'screenshot' is not defined
+
+
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008032.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+
+[Контроль качества]: Точность обратной 2D-развертки: 41.69%. Тепловое уклонение от Крио-ЭМ: 0.335 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008037.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.09%. Тепловое уклонение от Крио-ЭМ: 0.331 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008041.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.78%. Тепловое уклонение от Крио-ЭМ: 0.317 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008045.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.64%. Тепловое уклонение от Крио-ЭМ: 0.305 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008050.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 52.34%. Тепловое уклонение от Крио-ЭМ: 0.266 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008054.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 50.93%. Тепловое уклонение от Крио-ЭМ: 0.279 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008059.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+📊 [GUI Экспорт]: Полный аналитический Excel отчет создан: data/results/dna_comprehensive_report_1788008059.csv
+[Монитор]: Генерация графиков деформации и масс по Илюхину...
+📈 [УСПЕХ]: Научный двухосевой график записан: data/results/plots/scientific_plot_1788008059.png
+[ОЗУ -> ОЧИСТКА]: Буфер ОЗУ очищен. Память ПК стабильна.
+
+[GUI]: Запрос ручного скриншота...
+❌ [GUI ОШИБКА]: Сбой снимка: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.72%. Тепловое уклонение от Крио-ЭМ: 0.347 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008066.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.12%. Тепловое уклонение от Крио-ЭМ: 0.314 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008070.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
+
+[Контроль качества]: Точность обратной 2D-развертки: 55.99%. Тепловое уклонение от Крио-ЭМ: 0.365 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788008075.png
+❌ [ОШИБКА СКРИНШОТА]: Кадр пропущен: ShowBase.screenshot() got an unexpected keyword argument 'default_ext'
