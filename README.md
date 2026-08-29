@@ -75,6 +75,16 @@ The computational engine now scans nucleotide subsequences using continuous roll
 * Comprehensive Macro Report (`dna_comprehensive_report_*.csv`) updated with multi-scale columns.
 * Gigantic Detailed Micro Report (`dna_BIG_detailed_report_*.csv`) generating 10,000 rows of synchronized biochemical/biophysical parameters with Excel absolute formatting lock (`="val"` injection protection).
 * Double-axis automated scientific deformation plots mapped to precise epoch timestamps.
+* 
+### Жесткие параметры пар оснований (Rigid Base-Pair Parameters)
+
+В расчетный движок макро- и микро-отчетов интегрированы **5 фундаментальных конфигурационных параметров жесткого основания**, описывающих «скрытый физический код ДНК» (в соответствии с исследованиями консорциумов уровня *Ascona B-DNA Consortium*). Они определяют, как макромолекула деформируется под действием белков, закручивается в узлы и укладывается в промоторные зоны генов:
+
+* **Сдвиг_Оснований_(Slide):** Продольное скольжение пар нуклеотидов друг относительно друга вдоль длинной оси. Служит маркером готовности ДНК к плавлению.
+* **Подъём_Винта_(Rise):** Физическое расстояние между соседними этажами букв. В норме равен $3.4\text{ Å}$, но резко меняется при растяжении и хаосе.
+* **Крен_Осей_(Roll):** Угол наклона пар оснований наружу или внутрь большой бороздки ДНК. Самый главный параметр для посадки гистоновых катушек.
+* **Наклон_Осей_(Tilt):** Боковой наклон этажей нуклеотидов, отражающий асимметрию изгиба.
+* **Энергия_Стекинга_(Stacking):** Квантово-механическая энергия «склеивания» плоских этажей ДНК за счет перекрытия электронных облаков кольцевых молекул. Удерживает двойную спираль от теплового распада.
 
 ## 📬 Автор
 * **Александр Моисеенко** (`alekssan8183269-lang`) — Независимый исследователь / Independent Research.
