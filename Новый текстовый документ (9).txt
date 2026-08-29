@@ -1,0 +1,1181 @@
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033386.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 69.25%. Тепловое уклонение от Крио-ЭМ: 0.276 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033391.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.81%. Тепловое уклонение от Крио-ЭМ: 0.286 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033396.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+[ОЗУ -> Парсер]: Считывание реального кода ДНК из data/raw/NC_000001.11[49897450..60115810].fa...
+[ОЗУ -> Успех]: Загружено 10218361 реальных букв человека!
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 49, in eventLoopTask
+    self.doEvents()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 43, in doEvents
+    processFunc(dequeueFunc())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 99, in processEvent
+    messenger.send(eventName, paramList)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\Messenger.py", line 337, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\Messenger.py", line 422, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 320, in input
+    mouse.input(key)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\mouse.py", line 149, in input
+    self.hovered_entity.on_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 411, in on_save_csv_and_plot_click
+    phys = calculate_ilyukhin_and_biochem_parameters(current_points, letters_string)
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 192, in calculate_ilyukhin_and_biochem_parameters
+    score += bend_matrix.get(triplet, 0.050)
+             ^^^^^^^^^^^
+NameError: name 'bend_matrix' is not defined
+:task(error): Exception occurred in PythonTask eventManager
+Traceback (most recent call last):
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 724, in <module>
+    app.run()
+    ~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 369, in run
+    super().run()
+    ~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\ShowBase.py", line 3331, in run
+    self.taskMgr.run()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 553, in run
+    self.step()
+    ~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\task\Task.py", line 504, in step
+    self.mgr.poll()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 49, in eventLoopTask
+    self.doEvents()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 43, in doEvents
+    processFunc(dequeueFunc())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\EventManager.py", line 99, in processEvent
+    messenger.send(eventName, paramList)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\Messenger.py", line 337, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\direct\showbase\Messenger.py", line 422, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\main.py", line 320, in input
+    mouse.input(key)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina\mouse.py", line 149, in input
+    self.hovered_entity.on_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 411, in on_save_csv_and_plot_click
+    phys = calculate_ilyukhin_and_biochem_parameters(current_points, letters_string)
+  File "C:\наука\TroPy DNA Chaos\real_dna_tropy(222).py", line 192, in calculate_ilyukhin_and_biochem_parameters
+    score += bend_matrix.get(triplet, 0.050)
+             ^^^^^^^^^^^
+NameError: name 'bend_matrix' is not defined
+
+C:\наука\TroPy DNA Chaos>python real_dna_tropy(222).py
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033497.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 49.39%. Тепловое уклонение от Крио-ЭМ: 0.317 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033501.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+[ОЗУ -> Парсер]: Считывание реального кода ДНК из data/raw/NC_000001.11[49897450..60115810].fa...
+[ОЗУ -> Успех]: Загружено 10218361 реальных букв человека!
+📊 [GUI Экспорт]: Макро-отчет (26 узлов) создан: data/results/dna_comprehensive_report_1788033503.csv
+[ОЗУ -> Экспорт]: Запуск фоновой микро-разметки миллионов нуклеотидов...
+🧬 [ГИГАНТСКИЙ ОТЧЕТ]: Создана детальная таблица на 10 000 строк: data/results/dna_BIG_detailed_repo rt_1788033503.csv
+[Монитор]: Генерация графиков деформации и масс по Илюхину...
+📈 [УСПЕХ]: Научный двухосевой график записан: data/results/plots/scientific_plot_1788033503.png
+[ОЗУ -> ОЧИСТКА]: Буфер ОЗУ очищен. Память ПК стабильна.
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.73%. Тепловое уклонение от Крио-ЭМ: 0.402 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033561.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 44.24%. Тепловое уклонение от Крио-ЭМ: 0.279 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033565.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+[GUI]: Фазы 13 LCM сброшены!
+
+[Контроль качества]: Точность обратной 2D-развертки: 37.08%. Тепловое уклонение от Крио-ЭМ: 0.414 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788033570.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+C:\наука\TroPy DNA Chaos>python real_dna_tropy(222).py
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034082.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.94%. Тепловое уклонение от Крио-ЭМ: 0.307 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034087.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.96%. Тепловое уклонение от Крио-ЭМ: 0.328 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034092.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.97%. Тепловое уклонение от Крио-ЭМ: 0.301 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034097.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+[ОЗУ -> Парсер]: Считывание реального кода ДНК из data/raw/NC_000001.11[49897450..60115810].fa...
+[ОЗУ -> Успех]: Загружено 10218361 реальных букв человека!
+📊 [GUI Экспорт]: Макро-отчет (26 узлов) создан: data/results/dna_comprehensive_report_1788034097.csv
+[ОЗУ -> Экспорт]: Запуск фоновой микро-разметки миллионов нуклеотидов...
+🧬 [ГИГАНТСКИЙ ОТЧЕТ]: Создана детальная таблица на 10 000 строк: data/results/dna_BIG_detailed_repo rt_1788034097.csv
+[Монитор]: Генерация графиков деформации и масс по Илюхину...
+📈 [УСПЕХ]: Научный двухосевой график записан: data/results/plots/scientific_plot_1788034097.png
+
+============================================================
+🔬 [КОНТРОЛЬ КАЧЕСТВА]: ЗАПУСК АВТОНОМНОГО БЛОКА 'ПРОВЕРЬ СЕБЯ'
+============================================================
+-> Тест 1 (GC-состав): Средний по выборке = 42.26%
+   ✅ СТАТУС: ИДЕАЛЬНО (Соответствует геному Homo Sapiens)
+-> Тест 2 (Молекулярная масса): Средний вес сегмента = 315.4 kDa
+   ✅ СТАТУС: ИДЕАЛЬНО (Физический вес нуклеотидов подтвержден)
+-> Тест 3 (Асимметрия Skew): Диапазон значений = [-0.6296 : 0.7336]
+   ✅ СТАТУС: ИДЕАЛЬНО (Математические границы соблюдены, деления на ноль нет)
+-> Тест 4 (Энергия упругости): Пиковое напряжение в узлах = 0.329 kT
+   ✅ СТАТУС: ИДЕАЛЬНО (Нить стабильна, тепловой хаос не разрывает ДНК)
+------------------------------------------------------------
+🎉 [ВЕРДИКТ]: ВСЕ ДАННЫЕ АДЕКВАТНЫ И ДОСТОВЕРНЫ. СБОЕВ НЕ ОБНАРУЖЕНО.
+============================================================
+
+-> Тест 5 (Экранирование солей): Средний микро-заряд = 10.52, Пиковый = 10.84
+   ✅ СТАТУС: ИДЕАЛЬНО (Радиус Дебая ~1.0 нм гасит заряды согласно законам электролитов)
+[ОЗУ -> ОЧИСТКА]: Буфер ОЗУ очищен. Память ПК стабильна.
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.11%. Тепловое уклонение от Крио-ЭМ: 0.265 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034153.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.89%. Тепловое уклонение от Крио-ЭМ: 0.439 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034157.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.36%. Тепловое уклонение от Крио-ЭМ: 0.433 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034162.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.74%. Тепловое уклонение от Крио-ЭМ: 0.284 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034167.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.03%. Тепловое уклонение от Крио-ЭМ: 0.395 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034171.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.10%. Тепловое уклонение от Крио-ЭМ: 0.299 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034176.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 45.32%. Тепловое уклонение от Крио-ЭМ: 0.306 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034181.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.38%. Тепловое уклонение от Крио-ЭМ: 0.338 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034185.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.50%. Тепловое уклонение от Крио-ЭМ: 0.303 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034190.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.63%. Тепловое уклонение от Крио-ЭМ: 0.292 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034195.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 49.05%. Тепловое уклонение от Крио-ЭМ: 0.365 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034199.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.99%. Тепловое уклонение от Крио-ЭМ: 0.326 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034204.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.84%. Тепловое уклонение от Крио-ЭМ: 0.359 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034208.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 48.52%. Тепловое уклонение от Крио-ЭМ: 0.307 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034212.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.66%. Тепловое уклонение от Крио-ЭМ: 0.361 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034216.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.54%. Тепловое уклонение от Крио-ЭМ: 0.323 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034221.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.74%. Тепловое уклонение от Крио-ЭМ: 0.333 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034225.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.77%. Тепловое уклонение от Крио-ЭМ: 0.414 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034229.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.83%. Тепловое уклонение от Крио-ЭМ: 0.268 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034233.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.79%. Тепловое уклонение от Крио-ЭМ: 0.460 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034238.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.29%. Тепловое уклонение от Крио-ЭМ: 0.285 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034242.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 54.59%. Тепловое уклонение от Крио-ЭМ: 0.279 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034246.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.03%. Тепловое уклонение от Крио-ЭМ: 0.401 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034250.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 49.76%. Тепловое уклонение от Крио-ЭМ: 0.300 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034255.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.01%. Тепловое уклонение от Крио-ЭМ: 0.278 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034259.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 47.35%. Тепловое уклонение от Крио-ЭМ: 0.313 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034263.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 55.28%. Тепловое уклонение от Крио-ЭМ: 0.320 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034268.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 66.17%. Тепловое уклонение от Крио-ЭМ: 0.284 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034273.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.25%. Тепловое уклонение от Крио-ЭМ: 0.351 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034277.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.09%. Тепловое уклонение от Крио-ЭМ: 0.268 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034282.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.90%. Тепловое уклонение от Крио-ЭМ: 0.329 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034287.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.01%. Тепловое уклонение от Крио-ЭМ: 0.268 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034292.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 41.60%. Тепловое уклонение от Крио-ЭМ: 0.288 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034296.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.96%. Тепловое уклонение от Крио-ЭМ: 0.363 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034301.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.17%. Тепловое уклонение от Крио-ЭМ: 0.359 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034305.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.71%. Тепловое уклонение от Крио-ЭМ: 0.332 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034309.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.40%. Тепловое уклонение от Крио-ЭМ: 0.303 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034313.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.71%. Тепловое уклонение от Крио-ЭМ: 0.321 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034318.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.44%. Тепловое уклонение от Крио-ЭМ: 0.269 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034322.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 44.66%. Тепловое уклонение от Крио-ЭМ: 0.366 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034326.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.76%. Тепловое уклонение от Крио-ЭМ: 0.266 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034331.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.12%. Тепловое уклонение от Крио-ЭМ: 0.337 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034335.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.16%. Тепловое уклонение от Крио-ЭМ: 0.457 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034339.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.78%. Тепловое уклонение от Крио-ЭМ: 0.299 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034343.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.81%. Тепловое уклонение от Крио-ЭМ: 0.346 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034348.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 48.74%. Тепловое уклонение от Крио-ЭМ: 0.290 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034352.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 45.30%. Тепловое уклонение от Крио-ЭМ: 0.322 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034356.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 39.14%. Тепловое уклонение от Крио-ЭМ: 0.304 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034361.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.25%. Тепловое уклонение от Крио-ЭМ: 0.304 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034365.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.89%. Тепловое уклонение от Крио-ЭМ: 0.292 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034370.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 55.75%. Тепловое уклонение от Крио-ЭМ: 0.298 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034374.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 50.62%. Тепловое уклонение от Крио-ЭМ: 0.302 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034378.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.45%. Тепловое уклонение от Крио-ЭМ: 0.266 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034383.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.62%. Тепловое уклонение от Крио-ЭМ: 0.285 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034387.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 56.97%. Тепловое уклонение от Крио-ЭМ: 0.282 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034391.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.18%. Тепловое уклонение от Крио-ЭМ: 0.299 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034395.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.59%. Тепловое уклонение от Крио-ЭМ: 0.288 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034400.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 50.14%. Тепловое уклонение от Крио-ЭМ: 0.314 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034404.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.49%. Тепловое уклонение от Крио-ЭМ: 0.353 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034408.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.80%. Тепловое уклонение от Крио-ЭМ: 0.289 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034413.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.82%. Тепловое уклонение от Крио-ЭМ: 0.272 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034417.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.40%. Тепловое уклонение от Крио-ЭМ: 0.344 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034421.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.84%. Тепловое уклонение от Крио-ЭМ: 0.310 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034425.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.15%. Тепловое уклонение от Крио-ЭМ: 0.404 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034430.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.51%. Тепловое уклонение от Крио-ЭМ: 0.455 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034434.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 57.38%. Тепловое уклонение от Крио-ЭМ: 0.279 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034438.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.21%. Тепловое уклонение от Крио-ЭМ: 0.378 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034442.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.49%. Тепловое уклонение от Крио-ЭМ: 0.272 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034447.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 43.51%. Тепловое уклонение от Крио-ЭМ: 0.340 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034452.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 49.34%. Тепловое уклонение от Крио-ЭМ: 0.289 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034457.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.83%. Тепловое уклонение от Крио-ЭМ: 0.316 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034462.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 36.56%. Тепловое уклонение от Крио-ЭМ: 0.445 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034466.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.36%. Тепловое уклонение от Крио-ЭМ: 0.324 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034471.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.21%. Тепловое уклонение от Крио-ЭМ: 0.313 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034475.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.14%. Тепловое уклонение от Крио-ЭМ: 0.357 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034479.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.85%. Тепловое уклонение от Крио-ЭМ: 0.300 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034484.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 66.06%. Тепловое уклонение от Крио-ЭМ: 0.265 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034488.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 44.28%. Тепловое уклонение от Крио-ЭМ: 0.298 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034492.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.92%. Тепловое уклонение от Крио-ЭМ: 0.281 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034497.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.21%. Тепловое уклонение от Крио-ЭМ: 0.271 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034502.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.88%. Тепловое уклонение от Крио-ЭМ: 0.304 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034506.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 54.15%. Тепловое уклонение от Крио-ЭМ: 0.307 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034511.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.15%. Тепловое уклонение от Крио-ЭМ: 0.351 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034516.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.03%. Тепловое уклонение от Крио-ЭМ: 0.367 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034521.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 46.03%. Тепловое уклонение от Крио-ЭМ: 0.295 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034525.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.23%. Тепловое уклонение от Крио-ЭМ: 0.350 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034530.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 53.75%. Тепловое уклонение от Крио-ЭМ: 0.293 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034534.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.03%. Тепловое уклонение от Крио-ЭМ: 0.322 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034538.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.54%. Тепловое уклонение от Крио-ЭМ: 0.268 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034543.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.80%. Тепловое уклонение от Крио-ЭМ: 0.328 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034547.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 47.45%. Тепловое уклонение от Крио-ЭМ: 0.342 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034551.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.69%. Тепловое уклонение от Крио-ЭМ: 0.268 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034555.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 52.47%. Тепловое уклонение от Крио-ЭМ: 0.293 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034560.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.30%. Тепловое уклонение от Крио-ЭМ: 0.281 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034564.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.18%. Тепловое уклонение от Крио-ЭМ: 0.283 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034568.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.19%. Тепловое уклонение от Крио-ЭМ: 0.374 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034572.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 62.91%. Тепловое уклонение от Крио-ЭМ: 0.319 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034577.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 51.02%. Тепловое уклонение от Крио-ЭМ: 0.272 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034581.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 60.20%. Тепловое уклонение от Крио-ЭМ: 0.270 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034585.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 38.08%. Тепловое уклонение от Крио-ЭМ: 0.327 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034589.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.14%. Тепловое уклонение от Крио-ЭМ: 0.315 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034595.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 44.37%. Тепловое уклонение от Крио-ЭМ: 0.316 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034599.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 48.34%. Тепловое уклонение от Крио-ЭМ: 0.296 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034604.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+---------------set size to: (768.0, 432.0)
+set window position: (1850.1818181818182, 0)
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+reloaded in: 0.23427605628967285
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034607.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.21%. Тепловое уклонение от Крио-ЭМ: 0.279 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034612.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.09%. Тепловое уклонение от Крио-ЭМ: 0.235 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034617.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+info: changed aspect ratio: 1.778 -> 1.449
+info: changed aspect ratio: 1.449 -> 3.217
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.44%. Тепловое уклонение от Крио-ЭМ: 0.337 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788034624.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+:display:windisplay(warning): SetWindowPos failed.
+:display:windisplay(warning): SetWindowPos failed.
+:display:windisplay(warning): SetWindowPos failed.
+
+C:\наука\TroPy DNA Chaos>python real_dna_tropy(222).py
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035181.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788035191.png
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788035192.png
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+[ОЗУ -> Парсер]: Считывание реального кода ДНК из data/raw/NC_000001.11[49897450..60115810].fa...
+[ОЗУ -> Успех]: Загружено 10218361 реальных букв человека!
+📊 [GUI Экспорт]: Макро-отчет (26 узлов) создан: data/results/dna_comprehensive_report_1788035196.csv
+[ОЗУ -> Экспорт]: Запуск фоновой микро-разметки миллионов нуклеотидов...
+🧬 [ГИГАНТСКИЙ ОТЧЕТ]: Создана детальная таблица на 10 000 строк: data/results/dna_BIG_detailed_repo rt_1788035196.csv
+[Монитор]: Генерация графиков деформации и масс по Илюхину...
+📈 [УСПЕХ]: Научный двухосевой график записан: data/results/plots/scientific_plot_1788035196.png
+
+============================================================
+🔬 [КОНТРОЛЬ КАЧЕСТВА]: ЗАПУСК АВТОНОМНОГО БЛОКА 'ПРОВЕРЬ СЕБЯ'
+============================================================
+-> Тест 1 (GC-состав): Средний по выборке = 42.26%
+   ✅ СТАТУС: ИДЕАЛЬНО (Соответствует геному Homo Sapiens)
+-> Тест 2 (Молекулярная масса): Средний вес сегмента = 315.4 kDa
+   ✅ СТАТУС: ИДЕАЛЬНО (Физический вес нуклеотидов подтвержден)
+-> Тест 3 (Асимметрия Skew): Диапазон значений = [-0.6296 : 0.7336]
+   ✅ СТАТУС: ИДЕАЛЬНО (Математические границы соблюдены, деления на ноль нет)
+-> Тест 4 (Энергия упругости): Пиковое напряжение в узлах = 0.329 kT
+   ✅ СТАТУС: ИДЕАЛЬНО (Нить стабильна, тепловой хаос не разрывает ДНК)
+------------------------------------------------------------
+🎉 [ВЕРДИКТ]: ВСЕ ДАННЫЕ АДЕКВАТНЫ И ДОСТОВЕРНЫ. СБОЕВ НЕ ОБНАРУЖЕНО.
+============================================================
+
+-> Тест 5 (Экранирование солей): Средний микро-заряд = 10.52, Пиковый = 10.84
+   ✅ СТАТУС: ИДЕАЛЬНО (Радиус Дебая ~1.0 нм гасит заряды согласно законам электролитов)
+[ОЗУ -> ОЧИСТКА]: Буфер ОЗУ очищен. Память ПК стабильна.
+
+[Контроль качества]: Точность обратной 2D-развертки: 45.31%. Тепловое уклонение от Крио-ЭМ: 2.570 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035256.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.77%. Тепловое уклонение от Крио-ЭМ: 5.395 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035275.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.75%. Тепловое уклонение от Крио-ЭМ: 5.929 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035292.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[Контроль качества]: Точность обратной 2D-развертки: 50.79%. Тепловое уклонение от Крио-ЭМ: 1.661 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035309.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+[GUI]: Фазы 13 LCM сброшены!
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+[GUI]: Новый блок загружен!
+
+[Контроль качества]: Точность обратной 2D-развертки: 44.72%. Тепловое уклонение от Крио-ЭМ: 5.848 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035327.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+[GUI]: Фазы 13 LCM сброшены!
+[GUI]: Фазы 13 LCM сброшены!
+[GUI]: Фазы 13 LCM сброшены!
+
+[Контроль качества]: Точность обратной 2D-развертки: 59.40%. Тепловое уклонение от Крио-ЭМ: 3.121 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788035344.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788035345.png
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788035347.png
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788035350.png
+
+C:\наука\TroPy DNA Chaos>python real_dna_tropy(222).py
+=== ЗАПУСК СКВОЗНОЙ СИСТЕМЫ С ПОЛНОЙ ТРЕХУРОВНЕВОЙ ВЕРИФИКАЦИЕЙ ===
+=== ЗАПУСК УЛЬТИМАТИВНОГО СИНТЕЗА: ТРОПИКА, ХАОС, МАССЫ, ГРАФИКИ ===
+[ОЗУ -> Конвейер]: Чтение бинарного файла матрицы через h5py...
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:744: FutureWarning: The default value of `n_init` will change from 4 to 1 in 1.9. To suppress this warning, provide some value of `n_init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:754: FutureWarning: The default value of `init` will change from 'random' to 'classical_mds' in 1.10. To suppress this warning, provide some value of `init`.
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\manifold\_mds.py:771: FutureWarning: The `dissimilarity` parameter is deprecated and will be removed in 1.10. Use `metric` instead.
+  warnings.warn(
+[ОЗУ]: Обратная задача успешно решена! Симметрия графа подтверждена.
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=508, height_mm=286, name='\\\\.\\DISPLAY1', is_primary=True)
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+set window position: Vec2(192, 108)
+:prc(warning): changing default value for ConfigVariable paste-emit-keystrokes from '1' to '0'.
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\ursina
+asset_folder: .
+os: Windows
+python version: 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
+:display:windisplay(warning): Could not find icon filename textures/ursina.ico
+
+[ОТЛАДКА]: Попытка фиксации аномалии в: data/results/screenshots/auto_anomaly_1788036012.png
+📸 [АВТО-ФИКСАЦИЯ]: Критическая зона заснята успешно!
+info: changed aspect ratio: 1.778 -> 1.856
+⚙️ [GUI]: Режим автоматических скриншотов изменен на: False
+
+[Контроль качества]: Точность обратной 2D-развертки: 64.35%. Тепловое уклонение от Крио-ЭМ: 5.951 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[GUI]: Запрос ручного скриншота...
+📸 [GUI]: Ручной скриншот сохранен: data/results/screenshots/manual_1788036028.png
+
+[ОЗУ -> Анализ]: Запуск сквозного обсчета 6 параметров нелинейной механики...
+[ОЗУ -> Парсер]: Считывание реального кода ДНК из data/raw/NC_000001.11[49897450..60115810].fa...
+[ОЗУ -> Успех]: Загружено 10218361 реальных букв человека!
+📊 [GUI Экспорт]: Макро-отчет (26 узлов) создан: data/results/dna_comprehensive_report_1788036034.csv
+[ОЗУ -> Экспорт]: Запуск фоновой микро-разметки миллионов нуклеотидов...
+🧬 [ГИГАНТСКИЙ ОТЧЕТ]: Создана детальная таблица на 10 000 строк: data/results/dna_BIG_detailed_repo rt_1788036034.csv
+[Монитор]: Генерация графиков деформации и масс по Илюхину...
+📈 [УСПЕХ]: Научный двухосевой график записан: data/results/plots/scientific_plot_1788036034.png
+
+============================================================
+🔬 [КОНТРОЛЬ КАЧЕСТВА]: ЗАПУСК АВТОНОМНОГО БЛОКА 'ПРОВЕРЬ СЕБЯ'
+============================================================
+-> Тест 1 (GC-состав): Средний по выборке = 42.26%
+   ✅ СТАТУС: ИДЕАЛЬНО (Соответствует геному Homo Sapiens)
+-> Тест 2 (Молекулярная масса): Средний вес сегмента = 315.4 kDa
+   ✅ СТАТУС: ИДЕАЛЬНО (Физический вес нуклеотидов подтвержден)
+-> Тест 3 (Асимметрия Skew): Диапазон значений = [-0.6296 : 0.7336]
+   ✅ СТАТУС: ИДЕАЛЬНО (Математические границы соблюдены, деления на ноль нет)
+-> Тест 4 (Энергия упругости): Пиковое напряжение в узлах = 0.329 kT
+   ✅ СТАТУС: ИДЕАЛЬНО (Нить стабильна, тепловой хаос не разрывает ДНК)
+------------------------------------------------------------
+🎉 [ВЕРДИКТ]: ВСЕ ДАННЫЕ АДЕКВАТНЫ И ДОСТОВЕРНЫ. СБОЕВ НЕ ОБНАРУЖЕНО.
+============================================================
+
+-> Тест 5 (Экранирование солей): Средний микро-заряд = 10.52, Пиковый = 10.84
+   ✅ СТАТУС: ИДЕАЛЬНО (Радиус Дебая ~1.0 нм гасит заряды согласно законам электролитов)
+[ОЗУ -> ОЧИСТКА]: Буфер ОЗУ очищен. Память ПК стабильна.
+
+[Контроль качества]: Точность обратной 2D-развертки: 56.87%. Тепловое уклонение от Крио-ЭМ: 4.189 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 37.13%. Тепловое уклонение от Крио-ЭМ: 3.492 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 61.26%. Тепловое уклонение от Крио-ЭМ: 6.135 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 63.10%. Тепловое уклонение от Крио-ЭМ: 3.609 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 65.69%. Тепловое уклонение от Крио-ЭМ: 1.544 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 53.88%. Тепловое уклонение от Крио-ЭМ: 8.948 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
+
+[Контроль качества]: Точность обратной 2D-развертки: 67.07%. Тепловое уклонение от Крио-ЭМ: 1.363 Å [2.1, 5.1]
+[ОЗУ -> ЧИСТКА]: Тактовая очистка выполнена.
